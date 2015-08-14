@@ -466,7 +466,7 @@ Abstract Tasks
 ==============
 
 All tasks created using the :meth:`~@task` decorator
-will inherit from the applications base :attr:`~@Task` class.
+will inherit from the application's base :attr:`~@Task` class.
 
 You can specify a different base class with the ``base`` argument:
 
